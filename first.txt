@@ -2,4 +2,7 @@ fistline for github!
 added in dev branch in master
 hhhh
 
+added in dev branch changed feature1
+
+hahaha in feature1
 
